@@ -1,0 +1,6 @@
+{{#user}}
+Name: AltabAli Labbe
+Skills: Linux, AWS, Docker, Vagrant, windows
+Email: altafali309@gmail.com
+{{/user}}
+
